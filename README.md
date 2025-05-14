@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to make a website. success.
 - 🌱 I’m currently learning ... the very beginning basics of how github works.
 - 💞️ I’m looking to collaborate on ...a website for my business.
-- 📫 How to reach me ...jj_roland1@icloud.com
+- 📫 How to reach me ...@jjbeen100
 - 😄 Pronouns: ...Mr. him his he
 - ⚡ Fun fact: ...i dont have a clue do anything other then the beginning steps of HTML
 
